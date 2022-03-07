@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620128658036",
+    "project_id": "pushalarmmanager",
+    "storage_bucket": "pushalarmmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620128658036:android:1cf3f9a5c20a0a57db6721",
+        "android_client_info": {
+          "package_name": "com.example.pushalarmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620128658036-v3ar9n75jamdnk7bvsbsm13t0sfbfdsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCww5qa-wTPtPCg-s9mu1GM_Si4T_Ie-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620128658036-v3ar9n75jamdnk7bvsbsm13t0sfbfdsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
